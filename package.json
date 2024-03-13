@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "tsc && node simple_server_with_custom_extension_objects.js"
+  },
+  "dependencies": {
+    "node-opcua": "^2.122.0"
+  }
+}
